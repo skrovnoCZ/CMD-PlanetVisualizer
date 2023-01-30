@@ -10,8 +10,8 @@ git clone https://github.com/mattebert88/OpenGL-PlanetVisualizer.git
 ______________________________________________________________________
 
 Features (work in progress)
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 Set X and Y dimensions of screen.
 
