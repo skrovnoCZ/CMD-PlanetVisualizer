@@ -9,11 +9,11 @@ git clone https://github.com/mattebert88/OpenGL-PlanetVisualizer.git
 
 ______________________________________________________________________
 
-Features (work in progress)
+Features (work in progress... also FLASHING IMAGES)
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-Set X and Y dimensions of screen.
+Set X and Y dimensions for the screen.
 
 Set speed multiplier to speed up program (default is 1 for real time)
 
